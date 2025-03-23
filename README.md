@@ -20,3 +20,4 @@ Mostly country specific popular genres are observed in each country. Only United
 -  It is observed that shorter-duration content is on the rise in the last 10 years. (duration 75 to 150 minutes and seasons 1 to 3) . This can be considered while production of new content on Netflix that content older than the year 2000 is very scarce on Netflix. Senior Citizens could be the target audience for such content, which is almost missing currently. (during the Covid Pendamic time)
 -  Maximum content of Netflix which is around 75%, is coming from the top 10 countries. The United States is the highest contributor, followed by India and the United Kingdom. The rest of the world only contributes 25% of the content. More countries with suitable genres and ratings can be focussed on in the future to grow the business.
 
+Kaggale link:- https://www.kaggle.com/code/apkanisandeepkumar/netflix-eda
